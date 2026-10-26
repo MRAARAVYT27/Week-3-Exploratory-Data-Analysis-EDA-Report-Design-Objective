@@ -1,0 +1,38 @@
+
+# Week 3: Exploratory Data Analysis (EDA)
+
+## Internship
+Junior Data Scientist Internship — Yuva Intern
+
+## Objective
+To design an Exploratory Data Analysis (EDA) workflow for an agriculture and agribusiness dataset.
+
+## Planned Activities
+- Understand dataset structure and variables.
+- Inspect missing values and duplicate records.
+- Calculate descriptive statistics.
+- Analyze crop production, cultivated area, and crop yield.
+- Plan visualizations using bar charts, histograms, scatter plots, line charts, and box plots.
+- Investigate correlations and potential statistical anomalies.
+- Develop evidence-based recommendations.
+
+## Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Deliverables
+- EDA report design
+- Dataset overview and variable definitions
+- Data-quality assessment plan
+- Visualization and correlation analysis plan
+- Recommendations and limitations
+
+## Current Status
+Report design drafted. Dataset selection, practical analysis, charts, and actual findings are pending.
+
+## Data Integrity
+No analytical findings are claimed until the dataset has been analyzed. Illustrative examples are not actual dataset results.
